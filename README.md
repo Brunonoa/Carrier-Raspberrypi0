@@ -2,9 +2,9 @@
 Carrier board for Raspberrypi0
 
 Main Features:
-Display tft 2.4 inch
-Jack audio 2.5mm
-Battery charger with mini usb port
-Buttons and joystick as game pads
-External connector for exapnsion
-Connector for speaker
+1. Display tft 2.4 inch
+2. Jack audio 2.5mm
+3. Battery charger with mini usb port
+4. Buttons and joystick as game pads
+5. External connector for exapnsion
+6. Connector for speaker
